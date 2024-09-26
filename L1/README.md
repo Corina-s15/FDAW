@@ -1,3 +1,10 @@
+### Descrierea lucrării individuale:
+Proiectul constă în analiza cererilor HTTP printr-un set de cerințe și sarcini care implică utilizarea metodei POST, GET, PUT, și DELETE pentru a interacționa cu serverul la diverse adrese.
+
+### Lista surselor utilizate:
+1. MDN Web Docs
+2. CURL Documentation
+
 ### Sarcina nr. 1. Analiza cererilor HTTP
 1. Accesam site-ul http://sandbox.usm.md/login
 > <img src="./img/img16.png"/>
